@@ -1,0 +1,5 @@
+.idea
+*.env
+*.dev
+.DS_Store
+desktop.ini
